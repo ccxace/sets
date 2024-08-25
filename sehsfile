@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tutoring Services - Selective Entry Past Papers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #0073e6;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0073e6;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to Our Tutoring Services</h1>
+        <p>Get the Best Selective Entry Past Papers</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#services">Services</a>
+        <a href="#prices">Prices</a>
+        <a href="#contact">Contact Us</a>
+    </nav>
+
+    <div class="container" id="about">
+        <h2>About Us</h2>
+        <p>We specialize in helping students prepare for selective entry exams by providing top-quality past papers and tailored tutoring services. Our team of experienced educators is dedicated to helping students achieve their academic goals.</p>
+    </div>
+
+    <div class="container" id="services">
+        <h2>Services</h2>
+        <ul>
+            <li>Selective Entry Exam Past Papers</li>
+            <li>Personalized Tutoring Sessions</li>
+            <li>Study Guides and Resources</li>
+            <li>Mock Exams and Feedback</li>
+        </ul>
+    </div>
+
+    <div class="container" id="prices">
+        <h2>Prices</h2>
+        <table border="1" cellpadding="10" cellspacing="0" width="100%">
+            <tr>
+                <th>Service</th>
+                <th>Price</th>
+            </tr>
+            <tr>
+                <td>Selective Entry Past Papers (Set of 5)</td>
+                <td>$50</td>
+            </tr>
+            <tr>
+                <td>Personalized Tutoring Session (1 hour)</td>
+                <td>$40</td>
+            </tr>
+            <tr>
+                <td>Study Guide (Per Subject)</td>
+                <td>$25</td>
+            </tr>
+            <tr>
+                <td>Mock Exam and Feedback</td>
+                <td>$60</td>
+            </tr>
+        </table>
+    </div>
+
+    <div class="container" id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@tutoringservices.com</p>
+        <p>Phone: (123) 456-7890</p>
+        <p>Address: 123 Tutoring Lane, Education City, ED 45678</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Tutoring Services. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
